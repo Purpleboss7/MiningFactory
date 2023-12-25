@@ -1,6 +1,9 @@
+--APENAS TESTE, COLOCA UM POR UM NO EXECUTOR
+
 _G.Loop = true
 while _G.Loop and task.wait(9.0) do
 game:GetService('Players').LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1337.03784, -40.5242996, -71.0766449, 0.733099461, -5.0058496e-08, 0.680121422, 2.29757706e-08, 1, 4.88368244e-08, -0.680121422, -2.01759374e-08, 0.733099461)
+end
 end
 _G.Loop = true
 while _G.Loop and task.wait(8.0) do
