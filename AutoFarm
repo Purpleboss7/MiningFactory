@@ -1,13 +1,13 @@
 _G.Loop = true
-while _G.Loop and task.wait(6.0) do
+while _G.Loop and task.wait(9.0) do
 game:GetService('Players').LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1337.03784, -40.5242996, -71.0766449, 0.733099461, -5.0058496e-08, 0.680121422, 2.29757706e-08, 1, 4.88368244e-08, -0.680121422, -2.01759374e-08, 0.733099461)
 end
 _G.Loop = true
-while _G.Loop and task.wait(6.0) do
+while _G.Loop and task.wait(8.0) do
 game:GetService('Players').LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1300.19666, -36.5180435, -68.2953873, 0.349080145, -1.36863871e-08, 0.9370929, -1.73147185e-08, 1, 2.10551292e-08, -0.9370929, -2.35754261e-08, 0.349080145)
 end
 _G.Loop = true
-while _G.Loop and task.wait(6.0) do
+while _G.Loop and task.wait(7.0) do
 game:GetService('Players').LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1269.3324, -34.8458443, -49.8276558, 0.425523281, -1.71347061e-08, 0.90494746, -2.01546313e-09, 1, 1.9882183e-08, -0.90494746, -1.02842206e-08, 0.425523281)
 end
 _G.Loop = true
@@ -15,10 +15,10 @@ while _G.Loop and task.wait(6.0) do
 game:GetService('Players').LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1239.1571, -38.738369, -6.84604836, -0.853630006, 1.10285265e-08, 0.520879865, -4.46440964e-08, 1, -9.43366629e-08, -0.520879865, -1.03782817e-07, -0.853630006)
 end
 _G.Loop = true
-while _G.Loop and task.wait(6.0) do
+while _G.Loop and task.wait(5.0) do
 game:GetService('Players').LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1230.76587, -33.5180435, 27.178978, -0.976105094, 3.2045655e-08, 0.217299104, 5.17012992e-08, 1, 8.47690771e-08, -0.217299104, 9.39781728e-08, -0.976105094)
 end
 _G.Loop = true
-while _G.Loop and task.wait(6.0) do
+while _G.Loop and task.wait(4.0) do
 game:GetService('Players').LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1236.65051, -38.5180359, 61.8092461, -0.999996006, 2.59293067e-08, 0.00282985414, 2.60847361e-08, 1, 5.48883463e-08, -0.00282985414, 5.49619443e-08, -0.999996006)
 end
